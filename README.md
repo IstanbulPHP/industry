@@ -25,6 +25,7 @@
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
 | UseInsider | İstanbul | http://insider.com      |                                                                                                                                | Vidobu.com | İstanbul | http://vidobu.com      |                                                                                                              
 | Vivense.com | İstanbul | http://vivense.com      |                                                                                                                                                                                                                            
+| Yazılım Parkı | Ankara | http://yazilimparki.com.tr |
 | Zingat | İstanbul | https://zingat.com      |                                                                                                              
 
 ## Uyarı!
