@@ -12,6 +12,7 @@
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
 | Enuygun.com | İstanbul | http://enuygun.com      |          
 | Epigra | İstanbul | http://epigra.com      |         
+| GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
 | Kitapyurdu | İstanbul | http://kitapyurdu.com.tr      |                                                                                                              
@@ -25,6 +26,7 @@
 | Sony | İstanbul | http://sony.com.tr      |                                                                                    
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
 | Prisync | İstanbul | http://prisync.com      |
+| Rafineri Reklam Ajansı | İstanbul | http://www.rafineri.net      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
 | UseInsider | İstanbul | http://insider.com      |                                                                                                                                | Vidobu.com | İstanbul | http://vidobu.com      |                                                                                                              
 | Vivense.com | İstanbul | http://vivense.com      |                                                                                                                                                                                                                            
