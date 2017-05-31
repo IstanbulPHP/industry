@@ -1,6 +1,6 @@
-# Türkiye'de hangi şirketler PHP ile geliştirme yapıyor?
+# Türkiye'de hangi şirketler PHP ile geliştirme yapıyor? / Which companies use PHP in Turkey?
 
-| Şirket Adı       | Şehir    | Web Adresi|
+| Şirket Adı / Company Name      | Şehir / City    | Web Adresi / WWW |
 |------------------|----------|--------------------------|
 | Ada Dijital Ajans | İstanbul | http://ada.agency      |     
 | Atölye15          | İzmir    | https://atolye15.com   |     
@@ -29,9 +29,11 @@
 | Yazılım Parkı | Ankara | http://yazilimparki.com.tr |
 | Zingat | İstanbul | https://zingat.com      |                                                                                                              
 
-## Uyarı!
+## Uyarı! / Warning!
 
 Listenin alfabetik olarak sıralanması gerekmektedir. Lütfen yeni ekleme yaparken alfabetik sıraya göre ekleme yapınız, yanlış olanları düzeltiniz.
+
+Be careful when you adding a new company. It should be alphabetical order. 
 
 # Licence
 
