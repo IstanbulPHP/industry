@@ -26,6 +26,7 @@
 | Sony | İstanbul | http://sony.com.tr      |                                                                                    
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
 | Prisync | İstanbul | http://prisync.com      |
+| Promoqube | İstanbul | http://www.promoqube.com      |
 | Rafineri Reklam Ajansı | İstanbul | http://www.rafineri.net      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
 | UseInsider | İstanbul | http://insider.com      |                                                                                                                                | Vidobu.com | İstanbul | http://vidobu.com      |                                                                                                              
