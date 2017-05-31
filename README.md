@@ -4,6 +4,8 @@
 |------------------|----------|--------------------------|
 | Ada Dijital Ajans | İstanbul | http://ada.agency      |     
 | Atölye15          | İzmir    | https://atolye15.com   |     
+| Bahçeşehir Üniversitesi | İstanbul | http://bau.edu.tr      |
+| Bilkent Üniversitesi | İstanbul | http://bilkent.edu.tr      |
 | Barcin.com | İstanbul | http://barcin.com      |                                                                                                            
 | Düğün.com | İstanbul | http://dugun.com      |         
 | Efabrika | İstanbul | http://efabrika.com      |     
