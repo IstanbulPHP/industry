@@ -3,6 +3,7 @@
 | Şirket Adı       | Şehir    | Web Adresi|
 |------------------|----------|--------------------------|
 | Ada Dijital Ajans | İstanbul | http://ada.agency      |     
+| Atölye15          | İzmir    | https://atolye15.com   |     
 | Barcin.com | İstanbul | http://barcin.com      |                                                                                                            
 | Düğün.com | İstanbul | http://dugun.com      |         
 | Efabrika | İstanbul | http://efabrika.com      |     
