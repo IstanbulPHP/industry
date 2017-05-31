@@ -16,6 +16,7 @@
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
 | Kitapyurdu | İstanbul | http://kitapyurdu.com.tr      |                                                                                                              
+| Mars Athletic Club | İstanbul | http://www.marsathletic.com      |  
 | MediaNova | İstanbul | http://medianova.com      |                                                                                                                               
 | Metglobal | İstanbul | http://metglobal.com      |
 | Modanisa | İstanbul | http://modanisa.com      |                                                                          
