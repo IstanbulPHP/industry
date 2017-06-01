@@ -12,6 +12,8 @@
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
 | Enuygun.com | İstanbul | http://enuygun.com      |          
 | Epigra | İstanbul | http://epigra.com      |         
+| Fusion Istanbul | İstanbul | http://fusionistanbul.com      |         
+| Gazi Üniversitesi | Ankara | http://gazi.edu.tr |  
 | GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
@@ -27,6 +29,7 @@
 | Sony | İstanbul | http://sony.com.tr      |                                                                                    
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
 | Prisync | İstanbul | http://prisync.com      |
+| Projekod Yazılım | Denizli | https://projekod.com      |
 | Promoqube | İstanbul | http://www.promoqube.com      |
 | Rafineri Reklam Ajansı | İstanbul | http://www.rafineri.net      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
