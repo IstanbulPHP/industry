@@ -12,6 +12,7 @@
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
 | Enuygun.com | İstanbul | http://enuygun.com      |          
 | Epigra | İstanbul | http://epigra.com      |         
+| Gazi Üniversitesi | Ankara | http://gazi.edu.tr |  
 | GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
