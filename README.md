@@ -7,7 +7,7 @@
 | Bahçeşehir Üniversitesi | İstanbul | http://bau.edu.tr      |
 | Bilkent Üniversitesi | Ankara | http://bilkent.edu.tr      |
 | Barcin.com | İstanbul | http://barcin.com      |                                                                                                            
-| Düğün.com | İstanbul | http://dugun.com      |         
+| Düğün.com | İstanbul | https://dugun.com      |         
 | Efabrika | İstanbul | http://efabrika.com      |     
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
 | Enuygun.com | İstanbul | http://enuygun.com      |          
