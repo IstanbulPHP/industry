@@ -26,7 +26,7 @@
 | Mynet | İstanbul | http://mynet.com      |                  
 | Nefis Yemek Tarifleri | İstanbul | http://nefisyemektarifleri.com      |  
 | Secret CV | İstanbul | http://secretcv.com      |                                                                                                                                
-| Sendloop | İstanbul | http://sendloop.com      |                                                                                                              
+| Sendloop | İstanbul | http://sendloop.com      |                                                                                       | Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |                         
 | Sony | İstanbul | http://sony.com.tr      |                                                                                    
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
 | Prisync | İstanbul | http://prisync.com      |
