@@ -15,6 +15,7 @@
 | Fusion Istanbul | İstanbul | http://fusionistanbul.com      |         
 | Gazi Üniversitesi | Ankara | http://gazi.edu.tr |  
 | GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
+| Hobium | İstanbul | https://www.hobium.com |  
 | ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
 | Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
 | Kitapyurdu | İstanbul | http://kitapyurdu.com.tr      |                                                                                                              
