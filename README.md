@@ -2,42 +2,44 @@
 
 | Şirket Adı / Company Name      | Şehir / City    | Web Adresi / WWW |
 |------------------|----------|--------------------------|
-| Ada Dijital Ajans | İstanbul | http://ada.agency      |     
-| Atölye15          | İzmir    | https://atolye15.com   |     
+| Ada Dijital Ajans | İstanbul | http://ada.agency      |
+| Atölye15          | İzmir    | https://atolye15.com   |
 | Bahçeşehir Üniversitesi | İstanbul | http://bau.edu.tr      |
 | Bilkent Üniversitesi | Ankara | http://bilkent.edu.tr      |
-| Barcin.com | İstanbul | http://barcin.com      |                                                                                                            
-| Düğün.com | İstanbul | https://dugun.com      |         
-| Efabrika | İstanbul | http://efabrika.com      |     
-| Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |                                                                                                                       
-| Enuygun.com | İstanbul | http://enuygun.com      |          
-| Epigra | İstanbul | http://epigra.com      |         
-| Fusion Istanbul | İstanbul | http://fusionistanbul.com      |         
-| Gazi Üniversitesi | Ankara | http://gazi.edu.tr |  
-| GittiGidiyor | İstanbul | http://www.gittigidiyor.com |  
-| Hobium | İstanbul | https://www.hobium.com |  
-| ideasoft | İstanbul | http://ideasoft.com.tr |                                                                                                                                   
-| Kolay İK | İstanbul | http://kolayik.com      |                                                                                                                                  
-| Kitapyurdu | İstanbul | http://kitapyurdu.com.tr      |                                                                                                              
-| Mars Athletic Club | İstanbul | http://www.marsathletic.com      |  
-| MediaNova | İstanbul | http://medianova.com      |                                                                                                                               
+| Barcin.com | İstanbul | http://barcin.com      |
+| Düğün.com | İstanbul | https://dugun.com      |
+| Efabrika | İstanbul | http://efabrika.com      |
+| Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |
+| Enuygun.com | İstanbul | http://enuygun.com      |
+| Epigra | İstanbul | http://epigra.com      |
+| Fusion Istanbul | İstanbul | http://fusionistanbul.com      |
+| Gazi Üniversitesi | Ankara | http://gazi.edu.tr |
+| GittiGidiyor | İstanbul | http://www.gittigidiyor.com |
+| Hobium | İstanbul | https://www.hobium.com |
+| ideasoft | İstanbul | http://ideasoft.com.tr |
+| Kolay İK | İstanbul | http://kolayik.com      |
+| Kitapyurdu | İstanbul | http://kitapyurdu.com.tr      |
+| Mars Athletic Club | İstanbul | http://www.marsathletic.com      |
+| MediaNova | İstanbul | http://medianova.com      |
 | Metglobal | İstanbul | http://metglobal.com      |
-| Modanisa | İstanbul | http://modanisa.com      |                                                                          
-| Mynet | İstanbul | http://mynet.com      |                  
-| Nefis Yemek Tarifleri | İstanbul | http://nefisyemektarifleri.com      |  
-| Secret CV | İstanbul | http://secretcv.com      |                                                                                                                                
-| Sendloop | İstanbul | http://sendloop.com      |                                                                                       | Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |                         
-| Sony | İstanbul | http://sony.com.tr      |                                                                                    
-| Pembe Panjur | İstanbul | http://www.pembepanjur.com      |                                                                                       
+| Modanisa | İstanbul | http://modanisa.com      |
+| Mynet | İstanbul | http://mynet.com      |
+| Nefis Yemek Tarifleri | İstanbul | http://nefisyemektarifleri.com      |
+| Secret CV | İstanbul | http://secretcv.com      |
+| Sendloop | İstanbul | http://sendloop.com      |
+| Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
+| Sony | İstanbul | http://sony.com.tr      |
+| Pembe Panjur | İstanbul | http://www.pembepanjur.com      |
 | Prisync | İstanbul | http://prisync.com      |
 | Projekod Yazılım | Denizli | https://projekod.com      |
 | Promoqube | İstanbul | http://www.promoqube.com      |
 | Rafineri Reklam Ajansı | İstanbul | http://www.rafineri.net      |
-| Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |                                                                                                          
-| UseInsider | İstanbul | http://insider.com      |                                                                                                                                | Vidobu.com | İstanbul | http://vidobu.com      |                                                                                                              
-| Vivense.com | İstanbul | http://vivense.com      |                                                                                                                                                                                                                            
+| Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |
+| UseInsider | İstanbul | http://insider.com      |
+| Vidobu.com | İstanbul | http://vidobu.com      |
+| Vivense.com | İstanbul | http://vivense.com      |
 | Yazılım Parkı | Ankara | http://yazilimparki.com.tr |
-| Zingat | İstanbul | https://zingat.com      |                                                                                                              
+| Zingat | İstanbul | https://zingat.com      |
 
 ## Uyarı! / Warning!
 
