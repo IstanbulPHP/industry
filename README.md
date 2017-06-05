@@ -25,15 +25,15 @@
 | Modanisa | İstanbul | http://modanisa.com      |
 | Mynet | İstanbul | http://mynet.com      |
 | Nefis Yemek Tarifleri | İstanbul | http://nefisyemektarifleri.com      |
-| Secret CV | İstanbul | http://secretcv.com      |
-| Sendloop | İstanbul | http://sendloop.com      |
-| Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
-| Sony | İstanbul | http://sony.com.tr      |
 | Pembe Panjur | İstanbul | http://www.pembepanjur.com      |
 | Prisync | İstanbul | http://prisync.com      |
 | Projekod Yazılım | Denizli | https://projekod.com      |
 | Promoqube | İstanbul | http://www.promoqube.com      |
 | Rafineri Reklam Ajansı | İstanbul | http://www.rafineri.net      |
+| Secret CV | İstanbul | http://secretcv.com      |
+| Sendloop | İstanbul | http://sendloop.com      |
+| Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
+| Sony | İstanbul | http://sony.com.tr      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |
 | UseInsider | İstanbul | http://insider.com      |
 | Vidobu.com | İstanbul | http://vidobu.com      |
