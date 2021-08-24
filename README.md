@@ -35,6 +35,7 @@
 | Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
 | Sony | İstanbul | http://sony.com.tr      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |
+| Tripuck         | Antalya | https://www.tripuck.com/      |
 | UseInsider | İstanbul | http://insider.com      |
 | Vidobu.com | İstanbul | http://vidobu.com      |
 | Vivense.com | İstanbul | http://vivense.com      |
