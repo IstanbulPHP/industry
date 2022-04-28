@@ -9,6 +9,7 @@
 | Barcin.com | İstanbul | http://barcin.com      |
 | Düğün.com | İstanbul | https://dugun.com      |
 | Efabrika | İstanbul | http://efabrika.com      |
+| EGO Bilişim | Kahramanmaraş |  http://egobilisim.com  |
 | Etkinlik.com.tr | İstanbul | http://etkinlik.com.tr      |
 | Enuygun.com | İstanbul | http://enuygun.com      |
 | Epigra | İstanbul | http://epigra.com      |
